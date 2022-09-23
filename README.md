@@ -7,3 +7,5 @@ git clone URL
 ```
 2. 로컬에서 commit을 하나 더 쌓은 다음에 remote로 push한다.
 3. 리모트에서 commit을 하나 더쌓은 다음 loacl로 pull한다.
+4. 로컬에서 commit을 쌓습니다.
+5. 
